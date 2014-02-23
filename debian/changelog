@@ -1,3 +1,9 @@
+growl-for-linux (0.7.7-2raring~13.10~ppa1) saucy; urgency=low
+
+  * Build for saucy.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Sun, 23 Feb 2014 12:40:45 -0800
+
 growl-for-linux (0.7.7-2raring) raring; urgency=low
 
   * Separate display/libnotify to growl-for-linux-display-notify
